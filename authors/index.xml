@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Xiao Han 韓嘯</title>
+    <link>https://BrandonHanx.github.io/authors/</link>
+      <atom:link href="https://BrandonHanx.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Xiao (Brandon) Han</copyright><lastBuildDate>Thu, 18 Jun 2020 19:45:01 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://BrandonHanx.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>_Xiao Han_* | Ziyang Fan* | Zeyang Liu* | Chao Li | L. Jay Guo</title>
+      <link>https://BrandonHanx.github.io/authors/_xiao-han_-ziyang-fan-zeyang-liu-chao-li-l.-jay-guo/</link>
+      <pubDate>Thu, 18 Jun 2020 19:45:01 +0800</pubDate>
+      <guid>https://BrandonHanx.github.io/authors/_xiao-han_-ziyang-fan-zeyang-liu-chao-li-l.-jay-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://BrandonHanx.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BrandonHanx.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Xiao Han is a first-year Ph.D. student at 
+&lt;a href=&#34;https://www.surrey.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Surrey&lt;/a&gt;
+ under the supervision of 
+&lt;a href=&#34;http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Tao Xiang&lt;/a&gt;
+. He obtained his bachelor&amp;rsquo;s degree at 
+&lt;a href=&#34;http://www.zju.edu.cn/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhejiang University&lt;/a&gt;
+ in 2020. He has several academic experiences at 
+&lt;a href=&#34;https://umich.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Michigan&lt;/a&gt;
+, 
+&lt;a href=&#34;https://www.wias.org.cn/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Westlake University&lt;/a&gt;
+ and 
+&lt;a href=&#34;https://www.fudan.edu.cn/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fudan University&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
